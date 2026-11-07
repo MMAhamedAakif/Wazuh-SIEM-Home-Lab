@@ -5,6 +5,7 @@ A personal cybersecurity project focused on deploying and configuring **Wazuh SI
 ## 📌 Project Overview
 
 This project demonstrates the implementation of a virtualized Security Information and Event Management (SIEM) environment using Wazuh. Windows and Kali Linux endpoints are integrated with an Ubuntu Server-based Wazuh environment to provide centralized security monitoring and log analysis.
+<img width="1738" height="977" alt="dhash board 01" src="https://github.com/user-attachments/assets/71249300-7eca-418c-820a-e675469193b6" />
 
 ## 🏗️ Lab Architecture
 
@@ -57,13 +58,9 @@ Suggested screenshots:
 - SSH Failed Login Alerts
 - Security Events and Alert Analysis
 
-Example:
+  <img width="1738" height="975" alt="dash 02 " src="https://github.com/user-attachments/assets/c22da3aa-8944-4111-aebf-1f50dc8cc985" />
 
-```markdown
-<img width="1738" height="977" alt="dhash board 01" src="https://github.com/user-attachments/assets/b6592c88-851c-4faa-9eb2-459f6024fd5f" />
 
-```
-<img width="1738" height="975" alt="dash 02 " src="https://github.com/user-attachments/assets/c3034634-4f3f-413c-af2a-f961c9b190ab" />
 
 
 ## 🎯 Learning Outcomes
